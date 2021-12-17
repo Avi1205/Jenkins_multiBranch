@@ -1,7 +1,6 @@
-New changes done by developer
+New changes are done under Loans Branch
 
-some more changes dondddddddeddd
+Doing new commit "e"
 
 
-cccccc
-
+Only CI-CB stages
